@@ -1,0 +1,1 @@
+D:\cocos\project\ChessGame\proj.win32\Debug.win32\ChessGame.exe

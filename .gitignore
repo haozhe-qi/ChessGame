@@ -1,0 +1,77 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Cocos2d-x build artifacts
+*.pch
+*.pdb
+*.obj
+*.lib
+*.dll
+*.exe
+build-*/
+cocos2d/cocos/2d/
+cocos2d/cocos/3d/
+cocos2d/cocos/audio/
+cocos2d/cocos/base/
+cocos2d/cocos/math/
+cocos2d/cocos/network/
+cocos2d/cocos/platform/
+cocos2d/cocos/renderer/
+cocos2d/cocos/scripting/
+cocos2d/cocos/ui/
+cocos2d/cocos/deprecated/
+cocos2d/cocos/editor-support/
+cocos2d/external/
+
+# Visual Studio cache/options directory
+.vs/
+.vscode/
+
+# Cocos2d-x specific
+cocos2d/build/
+cocos2d/cmake-build-*/
+proj.win32/*.sdf
+proj.win32/*.suo
+proj.win32/*.opensdf
+proj.win32/*.vcxproj.user
+proj.win32/Debug/
+proj.win32/Release/
+proj.win32/ipch/
+proj.win32/.vs/
+
+# macOS specific
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# IDE files
+*.sublime-project
+*.sublime-workspace
+.idea/
+
+# Generated files
+*.apk
+*.app
+*.exe
+*.dll
+*.so
+*.dylib
